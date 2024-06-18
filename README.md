@@ -32,7 +32,7 @@ OR follow gitbash commands
 
 11. first register and then login
 
-12. admin login details username = harshitbansal and Password=12345.
+12. admin login details username = UtkarshRajSinha and Password=12345.
 
 ## If you like my project hit a star button
 
@@ -48,3 +48,4 @@ OR follow gitbash commands
 ## Contribution
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Please make sure to update tests as appropriate.
+# PHP-CMS
